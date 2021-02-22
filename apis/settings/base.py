@@ -22,7 +22,7 @@ SHARED_URL = "https://shared.acdh.oeaw.ac.at/"
 
 ACDH_IMPRINT_URL = "https://shared.acdh.oeaw.ac.at/acdh-common-assets/api/imprint.php?serviceID="
 
-PROJECT_NAME = "apis"
+PROJECT_NAME = "think tank network research initiative"
 PROJECT_SHARED = "https://shared.acdh.oeaw.ac.at/apis/"
 PROJECT_DEFAULT_MD = {
     'title': 'TITLE',
